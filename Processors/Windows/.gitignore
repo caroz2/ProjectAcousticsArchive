@@ -1,0 +1,17 @@
+# 本地烘焙产物 / Local Bake Artifacts
+
+# 时间戳工作目录 (如 20260522-1646)
+# Timestamp working directories (e.g. 20260522-1646)
+[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]-[0-9][0-9][0-9][0-9]/
+
+# 场景烘焙中间文件 (vox / config)
+# Scene bake intermediate files (vox / config)
+L_*.vox
+L_*_config.xml
+
+# 编码产物 / Encoded files
+*.enc
+
+# 最终烘焙结果 (通常导入到 Content/Acoustics 后不需要在这里保留)
+# Final bake result (usually imported to Content/Acoustics, not needed here)
+*.ace
