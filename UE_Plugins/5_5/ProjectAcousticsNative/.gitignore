@@ -2,6 +2,9 @@
 Binaries/
 /Intermediate
 .DS_Store
+# Python 字节码缓存，运行时自动生成，不需要上传
+# Python bytecode cache, auto-generated at runtime, do not upload
+__pycache__/
 
 ### whitelisted files
 !Resources/*
