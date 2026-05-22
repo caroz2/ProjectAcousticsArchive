@@ -16,6 +16,11 @@ I'll try to keep it updated, but no promises.
 
 ## 图文教程 / Step-by-Step Guide
 
+### 第零步：准备本地烘焙工具 / Step 0: Prepare Local Bake Tools
+
+> ⚠️ 官方 **Download Local Bake Tools** 下载链接已不可用。请直接使用仓库 `Processors` 文件夹下自带的本地烘焙工具。 / The official download link is no longer available. Use the local bake tools bundled in the repo's `Processors` folder instead.
+
+👉 [本地烘焙工具说明文档 / Local Bake Tool Guide](Processors/Windows/README.md)
 
 ### 第一步：切换至 Bake Acoustics 模式 / Step 1: Switch to Bake Acoustics Mode
 
